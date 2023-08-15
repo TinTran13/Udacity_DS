@@ -32,6 +32,7 @@ In this project, we utilize **calendar.csv** and **listings.csv** to address 3 b
 
 ## Result
 Detailed findings and insights from this project are presented in [here](https://github.com/TinTran13/Udacity_DS)
+and Medium Blog [here](https://medium.com/@trandangtin91/udacity-seattle-airbnb-analysis-c7e6406cd76b)
 
 ## Licensing, Authors, Acknowledgements
 Gratitude to UDACITY for facilitating access to the dataset, enabling insightful analyses. The Seattle Airbnb Open Dataset is publicly available. You can find the source and more information [here](https://www.kaggle.com/airbnb/seattle).
